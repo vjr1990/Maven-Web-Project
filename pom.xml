@@ -79,7 +79,7 @@
 		</dependency>
   </dependencies>
 
-	<distributionManagement>
+<!--	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
@@ -90,7 +90,7 @@
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://3.87.7.89:8081/repository/jagan_repo/</url>
 	    </snapshotRepository>
-</distributionManagement>
+</distributionManagement> -->
 	
 	
   <build>
